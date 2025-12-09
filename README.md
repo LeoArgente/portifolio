@@ -10,6 +10,7 @@ Portfólio profissional desenvolvido com HTML5, CSS3 e JavaScript.
 
 ## Estrutura
 
+```
 portifolio/
 ├── index.html
 ├── sobre.html
@@ -18,6 +19,7 @@ portifolio/
 │   └── style.css
 └── js/
     └── script.js
+```
 
 ## Funcionalidades
 
